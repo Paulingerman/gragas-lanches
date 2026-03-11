@@ -1,0 +1,1 @@
+{"name": "gragas-lanches-backend","version": "1.0.0","description": "Backend for Gragas Lanches","main": "src/server.js","scripts": {"start": "node src/server.js"},"dependencies": {},"devDependencies": {},"author": "Paulingerman","license": "MIT"}
